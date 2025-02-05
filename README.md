@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I’m currently working on longitudinal modelling of high-throughput photosynthesis data. I'm currently learning splines and random-regression based techniques, implemented in R. I have experienced in modelling genotype-by-environment using environmental covariables, genomic selection, and phenomic selection using NIR spectra data. 
+I’m currently working on statistical modelling of high-throughput photosynthesis data. I'm currently learning splines and random-regression based techniques, implemented in R. I have experienced in modelling genotype-by-environment incorporating environmental covariables, genomic selection, and phenomic selection using NIR spectra data. 
